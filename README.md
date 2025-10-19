@@ -19,8 +19,8 @@
 
 | 구분 | 저장소 링크 | 주요 기술 스택 |
 |------|--------------|----------------|
-| ⚙️ **Backend** | [jongeunny/Ravo_be](https://github.com/jongeunny/Ravo_be) | Node.js · Express · MySQL · Python(AI) |
-| 🎨 **Frontend** | [jongeunny/Ravo_fe](https://github.com/jongeunny/Ravo_fe) | React · Vite · Tailwind CSS · Recharts |
+| ⚙️ **Backend** | [RaaVoo/ravo-back](https://github.com/RaaVoo/ravo-back) | Node.js · Express · MySQL · Python(AI) |
+| 🎨 **Frontend** | [RaaVoo/ravo_front](https://github.com/RaaVoo/ravo_front) | React · Vite · Tailwind CSS · Recharts |
 | 🧠 **AI Module** | *(내장)* `ravo_emotion` | OpenAI API · Emotion Classification |
 | 🧩 **Main Dev Repo** | [RaaVoo/Ravo_](https://github.com/RaaVoo/Ravo_) | Fullstack Monorepo |
 
